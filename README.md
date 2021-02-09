@@ -7,7 +7,7 @@ README file has been created on Feb 9th, 2021
 USA Bike Sharing Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+The project tracks down the bike share systems for three major cities: chicago, new york city, washington.
 
 ### Files used
 Include the files used
