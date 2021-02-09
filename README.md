@@ -1,5 +1,7 @@
 ### Date created
-09.02.2020
+
+Bikeshare project has been created on Feb 3th, 2021.
+README file has been created on Feb 9th, 2021
 
 ### Project Title
 Replace the Project Title
